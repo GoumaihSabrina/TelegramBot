@@ -13,7 +13,7 @@ public class Product {
 
     @Override
     public String toString() {
-        return name + "\nImmagine: " +
+        return name + 
                 "\nDettagli: " + (detailsUrl.isEmpty() ? "N/D" : detailsUrl) ;
 
     }
