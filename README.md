@@ -98,3 +98,6 @@ Comandi principali
 
 Conclusioni
 Il Telegram Bot rappresenterà uno strumento interattivo per consentire agli utenti di reperire informazioni sulla disponibilità di strumenti musicali con facilità. Attraverso l'integrazione con un database aggiornato tramite scraping periodico e un'interfaccia intuitiva, l'applicazione risponderà alle esigenze di musicisti, appassionati e professionisti del settore musicale, promuovendo un'esperienza rapida, chiara e personalizzata.
+
+
+(ho fatto un casino ma nella cartella del progetto ci sarebbero due cartelle relative rispettivamente alle librerie 'mysql-connector-j-9.1.0.3' e 'telegramBots-8.2.0')
